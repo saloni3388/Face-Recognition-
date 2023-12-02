@@ -17,16 +17,17 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
+
+![Capture](https://github.com/saloni3388/Face-Recognition-/assets/86301560/55a64317-8ed4-4641-8cfb-8d2479dc509b)
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![take attendance](https://github.com/saloni3388/Face-Recognition-/assets/86301560/dd490d0b-d8ee-4d3b-bab3-385f46e3284d)
+
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+
+![show attendance](https://github.com/saloni3388/Face-Recognition-/assets/86301560/c63b77c4-f21c-4a53-8f4a-803bc3a3525e)
 
 HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
+![help](https://github.com/saloni3388/Face-Recognition-/assets/86301560/35569574-a636-40ee-9d68-42227c7df63f)
 
-CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
